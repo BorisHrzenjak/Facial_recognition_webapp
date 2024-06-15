@@ -69,4 +69,4 @@ Special thanks to the developers of Streamlit and DeepFace for providing powerfu
 ---
 
 ### Contact
-For any questions or suggestions, please feel free to contact me at your.email@example.com.
+For any questions or suggestions, please feel free to contact me at fletlajn@gmail.com.
